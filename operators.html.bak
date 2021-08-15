@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>operators in js</title>
+
+<script type="text/javascript">
+  //addition
+
+  var a=4;  //right-to-left 
+  var b=5;
+  var c=6;
+  var result= a+b; //adding two variables
+
+  document.write("<h1>"+result+"</h1>");
+  </script>
+
+
+
+<script type="text/javascript">
+  //addition
+
+  var a=4;
+  var b=5; //left-to-right
+  var c=6;
+  var result= a+b+c; //adding two variables
+
+  document.write("<h1>"+result+"</h1>");
+  </script>
+
+
+  <script type="text/javascript">
+  //addition
+
+  var a=14;
+  var b=02; //left-to-right
+  var c=1997;
+  var result= "saikumar"+a+"feb"+c; //"+ operators operats as a concatination b/w strings"
+   var result2= a+b*c;
+  document.write("<h1>"+result+"</h1>");
+  </script>
+
+
+
+ </head>
+ <body>
+  
+ </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Document</title>
+  <script type="text/javascript">
+
+
+//variable declaration//
+
+ var a=60;
+ var b=14.5
+ var fname="ranjith";
+ var 1NAME="kumar";
+
+
+ //printing the variables
+
+ document.write("a value: "+a);
+ document.write("<h2>")
+
+
+
+
+
+
+
+</script>
+ </head>
+ <body>
+  
+ </body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>if else in statement in js</title>
+ </head>
+
+<script type="text/javascript">
+/*
+Q1) find wheather is number even or odd
+q2)find if a number is postive or 0
+q3)find if a number is +ve or even
+*/
+document.write("<h1>if-else control statements</h1>")
+</script>
+
+
+
+<script type="text/javascript">
+  var x=3
+  if (x%2==0)
+  {
+	  document.write("<h3>even number</h3>");
+  }
+  else
+  {
+	  document.write("<h3>odd number</h3>");
+	  }
+	  	 
+   </script>
+
+----------------------------------------------------------------------------------------
+
+   <script type="text/javascript"> 
+  var x=-2;
+  if (x>0)
+  {
+	  document.write("<h3>positive number</h3>");
+  }
+
+  else if(x<0)
+  {
+	  document.write("<h3>negative number</h3>");
+
+	  }
+
+  else
+  {
+	  document.write("<h3>number is either postive 0r negative</h3>");
+	  }
+	  	 </script>
+-------------------------------------------------------------------------------------
+
+
+<script type="text/javascript">
+
+var x=50;
+ if(x>0)
+ {
+	 document.write("<h3>number is postive</h3>");
+	 }
+
+
+	 if(x%2==0)
+	 {
+		 document.write("<h3>number even mumber</h3>");
+       }
+	     else
+	   {
+		    document.write("<h3>number is postive but its odd</h3>");
+			
+			}
+			
+			else
+			{
+				 document.write("<h3>number is negative</h3>");
+				 }
+				 
+</script>
+
+
+
+
+ <body>
+  
+ </body>
+</html>

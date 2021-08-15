@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>Sample1</title>
+ </head>
+ <script type="text/javascript">
+
+ document.write("<h2>welcome to javascript</h2>");
+ document.write("<font size=7 color=red> how are u</font></br>");
+ </script>
+ <body>
+ <script language="java script">
+ document.write("<img src=javascript/111.jpg>")
+ </script>
+
+
+
+ 
+
+
+
+
+
+ <script type="text/javascript">
+ //variable declaration//
+
+ var a=60;
+ var b=14.5
+ var fname="ranjith";
+ VAR 1NAME="kumar";
+
+
+ //printing the variables
+
+ document.write("a value: ");
+ </script>
+ </body>
+
+
+
+
+
+</html> 

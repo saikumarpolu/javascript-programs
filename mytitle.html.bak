@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>my title</title>
+
+
+<script src="heading.js"></script>
+
+  <script type="text/javascript">
+
+  document.write("<h1 bgcolor="green"heading</h1>");
+  </script>
+
+ </head>
+ <body>
+ <script type="text/javascript">
+
+  document.write("<h2>heading</h2>");
+  </script>
+
+  
+ </body>
+</html>
+<script type="text/javascript">
+
+  document.write("<h3>heading</h3>");
+  </script>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>arrays</title>
+ </head>
+
+ <script type="text/javascript">
+ /*arrays in js
+   arrays concept is used to collection of mutiple  data stores in single line*/
+
+
+   var car1 = "benz";
+
+   var car2 = "audi";
+
+   var car3 = "rolls royce";
+
+   var car4 = "toyoto";
+
+               // 0         1              2         3 
+
+   var cars = [ "toyoto", "rollsroyce",  "audi",  "benz"];
+   car.push("merceds");
+
+
+  document.write("<h1>"+cars[3]+"</h1>")
+  
+
+//
+for (var i=0;i<3 ;i++ )
+
+{
+	document.write("<h1>"+cars[3]+"</h1>")
+
+}
+</script>
+
+
+
+
+<script type="text/java script">
+
+// var array= new array
+var arr1=new Array("mango","apple","bannana");
+
+  for(var i=0 ; i<3; i++)
+{
+	document.write("<h1>"+arr1[i]+"</h1>");
+
+}
+
+</script>
+
+ <body>
+ 
+
+  
+ </body>
+</html>
